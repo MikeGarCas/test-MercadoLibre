@@ -4,7 +4,7 @@ var config = require("./config.js").config;
 var gets = require('./tests/testget.js');
 
 
-// views is directory for all template files
+// directorios con todas las vistas que se pueden editar, están hardcode 
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
 
