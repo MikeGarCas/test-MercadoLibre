@@ -1,7 +1,7 @@
-MercadoLibreNode
+test-MercadoLibre
 ================
 
-MercadoLibreNode SDK for Node.js
+test-MercadoLibre SDK for Node.js
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mercadolibre/MercadoLibreNode)
 
