@@ -1,12 +1,12 @@
 {
   "name": "mercadolibre",
   "version": "0.0.14",
-  "author": "Florencia Solari <fsolari90@gmail.com>",
-  "description": "Mercadolibre SDK module for integration",
+  "author": "Miguel García ",
+  "description": "Integración ML",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mercadolibre/MercadoLibreNode.git"
+    "url": "https://github.com/MikeGarCas/test-MercadoLibre.git"
   },
   "keywords": [
     "api",
@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "ejs": "^2.5.6",
-    "express": "^4.16.2",
+    "express": "^4.17.1",
     "express-session": "^1.15.6",
     "needle": "^0.11.0",
     "request": "^2.83.0"
